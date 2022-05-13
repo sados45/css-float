@@ -1,0 +1,49 @@
+.container{
+    width:80%;
+    margin:auto;
+    border:2px solid blue;
+    border-radius:20px;
+}
+
+#html-container{
+
+    padding:2vw;
+}
+
+#css-container{
+
+    padding:5vw;
+}
+
+h1{
+    text-align:center;
+    color:red;
+}
+h3{
+    color:blue;
+    text-align:left;
+}
+
+p{
+    text-align:justify;
+}
+/* #description-html{ 
+
+    clear:left;
+}bu özelligi uygularsak float özelligine bagli  yukariyda saga yada sola alinan  yazilari engellemis oluyoruz.*/
+#Head1{
+    width:200px;
+    height:200px;
+    border-radius:30px;
+    float:left;
+    margin-right:10px;
+}
+   
+#Head2{
+    width:200px;
+    height:200px;
+    border-radius:30px;
+    float:right;
+    margin-left:15px;
+
+}
